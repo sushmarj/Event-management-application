@@ -1,0 +1,5 @@
+{
+    "mongoConnectString":"mongodb://localhost:27017/EventDB",
+    "port":5000,
+    "jwtPrivateKey":"sushma"
+}
