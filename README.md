@@ -1,5 +1,6 @@
 # Event-management-application
-react
+React Applicaton
+Developed the Web site from scratch which contains all Events to make the event registration by using React js as front-end that defines the behavior of the visual elements of a web application and Styled the Web site with Bootstrap and CSS.
 
 In the project directory, you can run:
 
