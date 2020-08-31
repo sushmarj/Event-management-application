@@ -1,6 +1,6 @@
 # Event-management-application
 
-###`React Applicaton`
+### `React Applicaton`
 
 Developed the Web site from scratch which contains all Events to make the event registration by using React js as front-end that defines the behavior of the visual elements of a web application and Styled the Web site with Bootstrap and CSS.
 Worked on connecting server-side application by using Node and Express Js. Optimize application for maximum speed and scalability by using MongoDB as Database.
